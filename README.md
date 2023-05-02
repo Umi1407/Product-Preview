@@ -1,2 +1,4 @@
 # Product-Preview
-A product-preview using grids
+A product-preview of a Perfume.
+Built using: Custom CSS and grids.
+
