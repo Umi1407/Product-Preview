@@ -1,7 +1,6 @@
 body{
    
     background-color:  hsl(30, 38%, 92%);
-    height: 1440px;
     min-height: 100vh;
     display: grid;
     place-items: center;
